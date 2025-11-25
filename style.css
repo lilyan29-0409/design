@@ -31,7 +31,7 @@ img{
 }
 
 .section-title{
-    font-size: 14px;
+    font-size: 25px;
     font-weight: 500;
     margin-bottom: 24px;
     text-transform: uppercase;
@@ -49,11 +49,11 @@ img{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 72px;
+    height: 80px;
 }
 
 .logo{
-    font-size: 28px;
+    font-size: 40px;
     font-weight: 700;
     letter-spacing: 0.05em;
 }
@@ -61,7 +61,7 @@ img{
 .main-nav{
     display: flex;
     gap: 28px;
-    font-size: 13px;
+    font-size: 14px;
     text-transform: uppercase;
 }
 
@@ -85,7 +85,7 @@ img{
 
 /* INTRO */
 .intro{
-    padding: 80px 0 40px;
+    padding: 40px 0 40px;
 }
 /*수정03*/
 .intro p{
